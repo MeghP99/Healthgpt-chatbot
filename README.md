@@ -68,7 +68,9 @@ cd healthgpt-chatbot
 
 # 2. Create & activate virtual env
 python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
+MACOS: source .venv/bin/activate  
+Windows: .venv\Scripts\activate
 
 # 3. Install deps
 pip install uv 
