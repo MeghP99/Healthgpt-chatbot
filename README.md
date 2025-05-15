@@ -39,9 +39,12 @@
 
 ```
 ├── main.py            # Streamlit app (was app.py)
+├── Images             # Images Folder
+    ├──Long-term-memory.png         
 ├── prompts.yaml       # System prompt & background‑task spec
 ├── requirements.txt   # Python deps
 └── README.md          # You’re here
+
 ```
 
 ---
