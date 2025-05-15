@@ -6,7 +6,7 @@
 
 ## 🖼️ Reference Architecture
 
-> *![](images/Long-term-memory.png)*
+*![](images/Long-term-memory.png)*
 
 ---
 
